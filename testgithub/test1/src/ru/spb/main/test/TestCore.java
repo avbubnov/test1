@@ -8,6 +8,7 @@ public class TestCore {
 		System.out.println("TestCore:main:001");
 		int i=1;
 		i=i++;
+		i=++i;
 		System.out.println("TestCore:main:002");
 
 	}
